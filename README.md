@@ -48,7 +48,12 @@ Manufacturing_Efficiency_AI
    ```
 
 ## Usage
+<<<<<<< HEAD
 Once the application is running, you can input manufacturing data and visualize the efficiency predictions based on the trained model. The EDA notebook can be used to explore the dataset and gain insights before model training.
 
 ## link of the project  deployment 
 [text](https://datasc-56hlqwhswwakalsafni9aa-manufacturing-effeciency.streamlit.app/)
+=======
+Once the application is running, you can input manufacturing data and visualize the efficiency predictions based on the trained model. The EDA notebook can be used to explore the dataset and gain insights before model training
+runing link of the project: https://datasc-56hlqwhswwakalsafni9aa-manufacturing-effeciency.streamlit.app
+>>>>>>> ed976a70a446697db1eff8dd5788281bcfbe9b10
